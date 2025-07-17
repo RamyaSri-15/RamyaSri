@@ -1,4 +1,4 @@
-# Hi, I'm [RamyaSri] 
+# Hi, I'm RamyaSri
 
 4th‑year CSE student @ ICFAI University 
 Projects, progress, and passion
